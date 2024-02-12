@@ -1,0 +1,17 @@
+{
+    "name": "franc/interface-segregation",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SRC\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Francis G Santos",
+            "email": "francis.santos@ymail.com"
+        }
+    ],
+    "require": {}
+}
